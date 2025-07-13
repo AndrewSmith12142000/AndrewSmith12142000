@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Ungee.smith@gmail.com**
 
-- ⚡ Fun fact **I enjoy going on runs and building computers**
+- ⚡ Fun fact **I enjoy building computers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
