@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndrewSmith12142000](https://github.com/AndrewSmith12142000)
 
-- 💬 Ask me about **Data Science, Data Analystics, Web interfaces**
+- 💬 Ask me about **Software Engineer, Data Science, Data Analystics**
 
 - 📫 How to reach me **Ungee.smith@gmail.com**
 
